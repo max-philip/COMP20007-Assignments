@@ -1,0 +1,47 @@
+- Sorting algorithms involving comparisons has a best case run time of O(nlogn)
+
+
+3. (b)
+
+T(1) = 1
+T(2) = 3
+T(3) = 6		
+T(4) = 10
+T(5) = 15
+
+ 2, 3, 4, 5
+ 
+ 0.5(n^2 + n
+ 
+ for including header files,
+ 
+ using quotes:
+ 
+ #include "list.h"
+ 
+ looks inside the same directory,
+ 
+ while using the angled brackets:
+ 
+ #include <stdio.h>
+ 
+ looks through pre-defined libraries in the compiler
+ 
+ 
+ 
+ gcc -o main main.c list.c
+ 
+ gcc -c main.c			->		main.o
+ gcc -c list.c				->		list.o
+ gcc -o main main.o list.of
+ 
+ 
+ Makefile
+ 
+$> make
+
+PROJECT:
+
+- array of stacks ??
+- circular array of queues
+ 
